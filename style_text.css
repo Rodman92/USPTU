@@ -1,0 +1,231 @@
+@font-face {
+    font-family: 'Montserrat';
+    src: url(fonts/Montserrat-Medium.ttf);
+}
+
+
+.text_top_left_verh {
+    position: absolute;
+    top: 20%;
+    left: 21%;
+    display: flex;
+    flex-direction: column;
+}
+
+.text_container {
+    flex-shrink: 0;
+    color: #FFF;
+    font-family: Montserrat;
+    line-height: normal;
+    margin-bottom: 10px; /* Добавим небольшой отступ между контейнерами */
+}
+
+.week {
+    font-size: 37px;
+    font-weight: 700;
+}
+
+.data {
+    font-weight: 500;
+    font-size: 22px;
+}
+
+.place {
+    font-weight: 600;
+    font-size: 20px;
+    margin-left: 37px;
+}
+.text_top_left_niz {
+    position: absolute;
+    top: 66.7%;
+    left: 21%;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.temperature {
+    font-size: 50px;
+    font-weight: 700;
+    margin-bottom: 10px; 
+}
+
+.weather {
+    font-weight: 500;
+    font-size: 30px;
+}
+.text_top_right_verh {
+    position: absolute;
+    top: 23%;
+    left: 50%;
+    display: flex;
+    flex-direction: column;
+}
+.PRECIPITATION {
+font-size: 28px;
+font-weight: 700;
+margin-bottom: 20px; 
+}
+.HUMIDITY {
+    font-size: 28px;
+    font-weight: 700;
+    margin-bottom: 20px; 
+}
+.WIND {
+font-size: 28px;
+ font-weight: 700;
+ margin-bottom: 20px; 
+ }
+ .text_top_right_verh2 {
+    position: absolute;
+    top: 23%;
+    left: 69.5%;
+    display: flex;
+    flex-direction: column;
+    text-align: right;
+}
+.PRECIPITATION2 {
+font-size: 28px;
+font-weight: 700;
+margin-bottom: 20px; 
+}
+.HUMIDITY2 {
+    font-size: 28px;
+    font-weight: 700;
+    margin-bottom: 20px; 
+}
+.WIND2 {
+font-size: 28px;
+ font-weight: 700;
+ margin-bottom: 20px; 
+ }
+ .text_top_right_niz1 {
+    position: absolute;
+    top: 56%;
+    left: 52%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.text_container2 {
+    flex-shrink: 0;
+    color: #000000;
+    font-family: Montserrat;
+    line-height: normal;
+    margin-bottom: 10px; /* Добавим небольшой отступ между контейнерами */
+}
+.week1 {
+font-size: 20px;
+font-weight: 400;
+margin-bottom: 10px; 
+}
+.temp1 {
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 10px; 
+}
+.text_top_right_niz2 {
+    position: absolute;
+    top: 56%;
+    left: 58.5%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.week2 {
+    font-size: 20px;
+    font-weight: 400;
+    margin-bottom: 10px; 
+    }
+    .temp2 {
+        font-size: 20px;
+        font-weight: 700;
+        margin-bottom: 10px; 
+    }
+
+ .text_top_right_niz3 {
+        position: absolute;
+        top: 56%;
+        left: 65%;
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+ }
+ .week3 {
+        font-size: 20px;
+        font-weight: 400;
+        margin-bottom: 10px; 
+        }
+ .temp3 {
+            font-size: 20px;
+            font-weight: 700;
+            margin-bottom: 10px; 
+        }
+.text_top_right_niz4 {
+            position: absolute;
+            top: 56%;
+            left: 71.5%;
+            display: flex;
+            flex-direction: column;
+            text-align: center;
+     }
+     .week4 {
+            font-size: 20px;
+            font-weight: 400;
+            margin-bottom: 10px; 
+            }
+     .temp4 {
+                font-size: 20px;
+                font-weight: 700;
+                margin-bottom: 10px; 
+            }
+.text_top_right_niz5 {
+ position: absolute;
+ top: 72%;
+ left: 59%;
+ display: flex;
+ flex-direction: column;
+
+}
+.location3 {
+    font-size: 20px;
+    font-weight:700;
+    margin-bottom: 10px; 
+}
+.text_top_right_niz6 {
+    position: absolute;
+    top: 36%;
+    left: 37.5%;
+    display: flex;
+    flex-direction: column;
+   
+   }
+   .select {
+       font-size: 29px;
+       font-weight:442;
+   }
+.text_center2 {
+    position: absolute;
+    top: 510%;
+    left: 25%;
+    display: flex;
+    flex-direction: column;
+   
+}
+.cancel {
+       font-size: 20px;
+       font-weight:600;
+
+}
+.text_center3 {
+    position: absolute;
+    top: 0%;
+    left: 280%;
+    display: flex;
+    flex-direction: column;
+}
+.ok {
+    font-size: 20px;
+    font-weight:600;
+
+}
